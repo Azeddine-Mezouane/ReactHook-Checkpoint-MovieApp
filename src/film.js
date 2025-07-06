@@ -6,13 +6,13 @@ export const moviesData = [
     posterURL: "/filmPicture/Dune-Part-Two.jpg",
     rating: 4.2, // Note moyenne Allociné (via SensCritique)
   },
-  {
-    title: "Furiosa : Une saga Mad Max",
-    description:
-      "Alors que le monde s'écroule, la jeune Furiosa est arrachée à la Terre Verte des Mères et tombe entre les mains d'une horde de motards dirigée par le Seigneur de la Guerre Dementus. Au travers du Wasteland, ils tombent sur la Citadelle présidée par l'Immortan Joe. Alors que les deux tyrans se font la guerre pour la domination, Furiosa doit survivre à de nombreuses épreuves pour trouver le moyen de rentrer chez elle.",
-    posterURL: "/filmPicture/Furiosa.jpg",
-    rating: 3.8, // Note moyenne Allociné (via SensCritique)
-  },
+  // {
+  //   title: "Furiosa : Une saga Mad Max",
+  //   description:
+  //     "Alors que le monde s'écroule, la jeune Furiosa est arrachée à la Terre Verte des Mères et tombe entre les mains d'une horde de motards dirigée par le Seigneur de la Guerre Dementus. Au travers du Wasteland, ils tombent sur la Citadelle présidée par l'Immortan Joe. Alors que les deux tyrans se font la guerre pour la domination, Furiosa doit survivre à de nombreuses épreuves pour trouver le moyen de rentrer chez elle.",
+  //   posterURL: "/filmPicture/Furiosa.jpg",
+  //   rating: 3.8, // Note moyenne Allociné (via SensCritique)
+  // },
   {
     title: "Vice-Versa 2",
     description:
@@ -48,13 +48,13 @@ export const moviesData = [
     posterURL: "/filmPicture/Le-Comte-de-Monte-Cristo.webp",
     rating: 4.3, // Note moyenne SensCritique
   },
-  {
-    title: "Elyas",
-    description:
-      "Un garde du corps solitaire est engagé pour protéger une jeune femme et sa fille, réfugiées dans un château, alors que des forces obscures tentent de les retrouver.",
-    posterURL: "/filmPicture/Elyas.jpg",
-    rating: 3.0, // Note moyenne CinéDweller
-  },
+  // {
+  //   title: "Elyas",
+  //   description:
+  //     "Un garde du corps solitaire est engagé pour protéger une jeune femme et sa fille, réfugiées dans un château, alors que des forces obscures tentent de les retrouver.",
+  //   posterURL: "/filmPicture/Elyas.jpg",
+  //   rating: 3.0, // Note moyenne CinéDweller
+  // },
   {
     title: "Beetlejuice Beetlejuice",
     description:
@@ -62,20 +62,20 @@ export const moviesData = [
     posterURL: "/filmPicture/Beetlejuice.jpg",
     rating: 3.6, // Note moyenne SensCritique
   },
-  {
-    title: "Joker : Folie à Deux",
-    description:
-      "La suite de Joker, explorant la relation tourmentée entre Arthur Fleck et Harley Quinn dans un univers où la folie règne en maître.",
-    posterURL: "/filmPicture/Joker.webp",
-    rating: 3.5, // Estimation basée sur les premières réactions
-  },
-  {
-    title: "Vaiana 2",
-    description:
-      "Vaiana et Maui se lancent dans une nouvelle aventure audacieuse à travers les vastes mers de l'Océanie, affrontant des dangers inconnus et des défis encore plus grands.",
-    posterURL: "/filmPicture/Vaiana2.jpg",
-    rating: 3.5, // Note moyenne SensCritique
-  },
+  // {
+  //   title: "Joker : Folie à Deux",
+  //   description:
+  //     "La suite de Joker, explorant la relation tourmentée entre Arthur Fleck et Harley Quinn dans un univers où la folie règne en maître.",
+  //   posterURL: "/filmPicture/Joker.webp",
+  //   rating: 3.5, // Estimation basée sur les premières réactions
+  // },
+  // {
+  //   title: "Vaiana 2",
+  //   description:
+  //     "Vaiana et Maui se lancent dans une nouvelle aventure audacieuse à travers les vastes mers de l'Océanie, affrontant des dangers inconnus et des défis encore plus grands.",
+  //   posterURL: "/filmPicture/Vaiana2.jpg",
+  //   rating: 3.5, // Note moyenne SensCritique
+  // },
   {
     title: "Venom : The Last Dance",
     description:
@@ -125,18 +125,18 @@ export const moviesData = [
     posterURL: "/filmPicture/Le-Salaire.jpg",
     rating: 1.5, // Note moyenne CinéDweller
   },
-  {
-    title: "Le Deuxième Acte",
-    description:
-      "Une comédie dramatique où des acteurs, au cours d'un tournage de film, se retrouvent face à leurs propres personnages et à leurs répliques, remettant en question la réalité de leur métier et de leur vie.",
-    posterURL: "/filmPicture/Le-Deuxième-Acte.jpg",
-    rating: 3.8, // Note moyenne presse Allociné (via Wikipédia)
-  },
-  {
-    title: "Challengers",
-    description:
-      "Tashi, une ancienne prodige du tennis devenue entraîneuse, est mariée à Art, un champion qui enchaîne les victoires. Alors qu'il est en perte de vitesse, elle le pousse à s'inscrire à un tournoi Challengers, où il doit affronter Patrick, son ancien meilleur ami... et l'ex-petit ami de Tashi.",
-    posterURL: "/filmPicture/Challengers.jpg",
-    rating: 3.7, // Note moyenne SensCritique
-  },
+  // {
+  //   title: "Le Deuxième Acte",
+  //   description:
+  //     "Une comédie dramatique où des acteurs, au cours d'un tournage de film, se retrouvent face à leurs propres personnages et à leurs répliques, remettant en question la réalité de leur métier et de leur vie.",
+  //   posterURL: "/filmPicture/Le-Deuxième-Acte.jpg",
+  //   rating: 3.8, // Note moyenne presse Allociné (via Wikipédia)
+  // },
+  // {
+  //   title: "Challengers",
+  //   description:
+  //     "Tashi, une ancienne prodige du tennis devenue entraîneuse, est mariée à Art, un champion qui enchaîne les victoires. Alors qu'il est en perte de vitesse, elle le pousse à s'inscrire à un tournoi Challengers, où il doit affronter Patrick, son ancien meilleur ami... et l'ex-petit ami de Tashi.",
+  //   posterURL: "/filmPicture/Challengers.jpg",
+  //   rating: 3.7, // Note moyenne SensCritique
+  // },
 ];
