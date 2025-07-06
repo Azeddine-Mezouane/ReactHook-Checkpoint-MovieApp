@@ -1,8 +1,8 @@
-# React + Vite
+## 🔗 Live Demo
 
-## Project link
+👉 [react-hook-checkpoint-movie-app.vercel.app](https://react-hook-checkpoint-movie-app.vercel.app)
 
-react-hook-checkpoint-movie-app.vercel.app
+---
 
 # 🎬 My Movie List – React Movie App
 
@@ -35,4 +35,3 @@ react-hook-checkpoint-movie-app.vercel.app
 - If an **image URL is provided**, it is used as the movie cover.
 - If not, a **random color** is generated as a visual placeholder.
 - The same logic applies to the movie detail modal.
-
