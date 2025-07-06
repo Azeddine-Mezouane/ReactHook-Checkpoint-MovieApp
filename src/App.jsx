@@ -67,7 +67,7 @@ function App() {
 
   return (
     <div className="p-8 bg-gray-100 min-h-screen">
-      <h1 className="text-3xl font-bold text-center mb-8">My Movie App</h1>
+      <h1 className="text-3xl font-bold text-center mb-8">My Movie List</h1>
 
       <FilterBar
         filterTitle={filterTitle}
